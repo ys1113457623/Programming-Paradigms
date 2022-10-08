@@ -30,6 +30,9 @@ All strings consist only of lowercase letters.*/
 
 // MY SOLUTION
 
+#include<iostream>
+#include<vector>
+
 class Solution {
 public:
     int countMatches(vector<vector<string>>& items, string ruleKey, string ruleValue) {
